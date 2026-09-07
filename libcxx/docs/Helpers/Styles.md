@@ -18,3 +18,21 @@
   .complete { background-color: #99FF99; }
 </style>
 ```
+
+:::{role} notstarted
+:::
+
+:::{role} nothingtodo
+:::
+
+:::{role} inprogress
+:::
+
+:::{role} inreview
+:::
+
+:::{role} partial
+:::
+
+:::{role} complete
+:::

@@ -28,15 +28,6 @@ The groups that have contributed papers:
 
 ## Paper Status
 
-```{eval-rst}
-.. role:: notstarted
-.. role:: nothingtodo
-.. role:: inprogress
-.. role:: inreview
-.. role:: partial
-.. role:: complete
-```
-
 :::{csv-table}
 :file: Cxx20Papers.csv
 :header-rows: 1
