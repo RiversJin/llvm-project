@@ -153,7 +153,7 @@
 "[LWG3643](https://wg21.link/LWG3643)","Missing `constexpr` in `std::counted_iterator` ","2022-02 (Virtual)","{{Complete}}","19","[#104955](https://github.com/llvm/llvm-project/issues/104955)",""
 "[LWG3648](https://wg21.link/LWG3648)","`format` should not print `bool` with `'c'` ","2022-02 (Virtual)","{{Complete}}","15","[#104956](https://github.com/llvm/llvm-project/issues/104956)",""
 "[LWG3649](https://wg21.link/LWG3649)","[fund.ts.v2] Reinstate and bump `__cpp_lib_experimental_memory_resource` feature test macro","2022-02 (Virtual)","","","[#104957](https://github.com/llvm/llvm-project/issues/104957)",""
-"[LWG3650](https://wg21.link/LWG3650)","Are `std::basic_string` 's `iterator` and `const_iterator` constexpr iterators?","2022-02 (Virtual)","{{NothingToDo}}","","[#104958](https://github.com/llvm/llvm-project/issues/104958)",""
+"[LWG3650](https://wg21.link/LWG3650)","Are `std::basic_string`'s `iterator` and `const_iterator` constexpr iterators?","2022-02 (Virtual)","{{NothingToDo}}","","[#104958](https://github.com/llvm/llvm-project/issues/104958)",""
 "[LWG3654](https://wg21.link/LWG3654)","`basic_format_context::arg(size_t)` should be `noexcept` ","2022-02 (Virtual)","{{Complete}}","15","[#104959](https://github.com/llvm/llvm-project/issues/104959)",""
 "[LWG3657](https://wg21.link/LWG3657)","`std::hash<std::filesystem::path>` is not enabled","2022-02 (Virtual)","{{Complete}}","17","[#104960](https://github.com/llvm/llvm-project/issues/104960)",""
 "[LWG3660](https://wg21.link/LWG3660)","`iterator_traits<common_iterator>::pointer` should conform to §[iterator.traits]","2022-02 (Virtual)","{{Complete}}","14","[#104961](https://github.com/llvm/llvm-project/issues/104961)",""
